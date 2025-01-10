@@ -7,7 +7,7 @@ const properties = [
     id: 1,
     image: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     title: "Modern Villa with Ocean View",
-    price: "$2,500,000",
+    price: "$2,500",
     location: "Malibu, California",
     beds: 5,
     baths: 4,
